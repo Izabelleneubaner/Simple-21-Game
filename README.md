@@ -1,4 +1,4 @@
-# Simple-21-Game
+# Simple 21 Game (Blackjack)
 
 This is a simple game Blackjack (21 in Brazil) that I build in the Scrimba's course
 
